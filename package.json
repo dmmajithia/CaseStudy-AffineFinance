@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/dmmajithia/CaseStudy-AffineFinance#readme",
   "dependencies": {
-    "express": "^4.16.4"
+    "express": "^4.16.4",
+    "mongoose": "^5.4.8"
   }
 }
