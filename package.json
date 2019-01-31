@@ -1,5 +1,5 @@
 {
-  "name": "app",
+  "name": "case_study",
   "version": "1.0.0",
   "description": "Case Study for Affine Finance",
   "main": "app.js",
@@ -11,16 +11,19 @@
     "url": "git+https://github.com/dmmajithia/CaseStudy-AffineFinance.git"
   },
   "keywords": [
+    "npm",
     "node",
     "mongodb",
-    "mongoose",
-    "npm",
-    "express"
+    "express",
+    "mongoose"
   ],
   "author": "Dhawal Majithia (dhawal77m@gmail.com)",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/dmmajithia/CaseStudy-AffineFinance/issues"
   },
-  "homepage": "https://github.com/dmmajithia/CaseStudy-AffineFinance#readme"
+  "homepage": "https://github.com/dmmajithia/CaseStudy-AffineFinance#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
